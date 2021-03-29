@@ -54,7 +54,7 @@
             <li>recaptcha</li>
             <li>export dữ liệu theo định dạng pdf, excel</li>
             <li>Quyên mật khẩu - gửi mail xác thực mật khẩu</li>
-            <li></li>
+            <li>pagination, middleware login-logout</li>
            </ul>
         </li>  
     </ul>
